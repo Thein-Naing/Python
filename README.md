@@ -6,6 +6,9 @@
 ![image](https://github.com/Thein-Naing/Python/assets/117463446/dc212eca-9b46-404c-8a2c-1dc8bafa011b)
 `[3]passwordCracker(Dictionary Attack)`
 ![image](https://github.com/Thein-Naing/Python/assets/117463446/82f97ba2-414d-41f6-b16d-5596834111ba)
+`[4]passwordHashing for passwordCracker`
+![image](https://github.com/Thein-Naing/Python/assets/117463446/6269bb0e-2e40-46f7-a2f8-a2ab5c81faa1)
+
 
 
 
