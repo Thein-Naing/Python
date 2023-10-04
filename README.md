@@ -14,7 +14,7 @@
 ![image](https://github.com/Thein-Naing/Python/assets/117463446/48cd8aeb-e576-4dc6-b529-e42fd1dfe8ed)
 ![image](https://github.com/Thein-Naing/Python/assets/117463446/2f1f5665-a4be-4d52-ba18-4a787a34a3fa)
 
-`[5]passwordValidating
+`[5]passwordValidating`
 ![image](https://github.com/Thein-Naing/Python/assets/117463446/ff28782b-fb8e-4470-9f7c-7ba3904dc9d3)
 ![image](https://github.com/Thein-Naing/Python/assets/117463446/5f3a7009-3e99-464e-a394-4364eec02a9d)
 
