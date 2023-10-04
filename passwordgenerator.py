@@ -18,4 +18,4 @@ if __name__ == "__main__":
           print("Password length must be at least 6 character" )
       else:
           desired_password = generate_password(password_length)
-          print("generated Pa
+          print("generated Password:", desired_password)
