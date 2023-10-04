@@ -1,4 +1,4 @@
-# Network Traffic Analysis from medium.com
+# Network Traffic Analysis using python from medium.com
 # return country/city name of the IP target
 
 import geoip2.database
