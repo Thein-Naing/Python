@@ -1,3 +1,5 @@
+# Lessons from Vinsloev Academy 
+
 import hashlib
 
 def crackhash(inputPass):
