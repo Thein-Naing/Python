@@ -8,6 +8,10 @@
 ![image](https://github.com/Thein-Naing/Python/assets/117463446/82f97ba2-414d-41f6-b16d-5596834111ba)
 `[4]passwordHashing for passwordCracker`
 ![image](https://github.com/Thein-Naing/Python/assets/117463446/6269bb0e-2e40-46f7-a2f8-a2ab5c81faa1)
+![image](https://github.com/Thein-Naing/Python/assets/117463446/48cd8aeb-e576-4dc6-b529-e42fd1dfe8ed)
+![image](https://github.com/Thein-Naing/Python/assets/117463446/2f1f5665-a4be-4d52-ba18-4a787a34a3fa)
+
+
 
 
 
