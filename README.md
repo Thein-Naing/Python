@@ -18,7 +18,7 @@
 ![image](https://github.com/Thein-Naing/Python/assets/117463446/ff28782b-fb8e-4470-9f7c-7ba3904dc9d3)
 ![image](https://github.com/Thein-Naing/Python/assets/117463446/5f3a7009-3e99-464e-a394-4364eec02a9d)
 
-`[6]passwordFinder`
+`[6]passwordFinder(a brute force password cracker)`
 ![image](https://github.com/Thein-Naing/Python/assets/117463446/4f6fb15e-bbb2-48f9-9b8f-0d519ab08d7a)
 ![image](https://github.com/Thein-Naing/Python/assets/117463446/79ca48fb-902e-4b01-91c2-e06890b55e1e)
 ![image](https://github.com/Thein-Naing/Python/assets/117463446/a58adb72-677c-4d31-bd12-aa67d022b2b7)
